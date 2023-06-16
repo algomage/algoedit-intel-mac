@@ -1,0 +1,1 @@
+# algoedit-intel-mac
